@@ -45,3 +45,4 @@ Developed by: RegisterNumber:
 ![iso w](https://github.com/user-attachments/assets/df8bd2c6-4261-4f83-b079-d330eb400f3c)
 
 **RESULTS**
+Thus the Serial-In- Serial-Out shift register is implemented and verified.
